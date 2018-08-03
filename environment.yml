@@ -1,0 +1,6 @@
+channels:
+  - conda-forge
+dependencies:
+  - make
+  - gnuplot
+  - imagemagick
